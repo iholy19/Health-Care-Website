@@ -5,5 +5,5 @@ touch .gitattributes
 *.jsp linguist-detectable=true
 *.xml linguist-vendored=false
 *.xml linguist-detectable=true
-*.jsp linguist-vendored=false
-*.jsp linguist-detectable=true
+*.html linguist-vendored=false
+*.html linguist-detectable=true
