@@ -1,0 +1,73 @@
+
+#rightform{
+    margin-right: 150px;
+    float: right;
+    clear: right;
+}
+input[type=text],input[type=password],input[type=email],input[type=date] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid rgb(128, 116, 116);
+    border-radius: 4px;
+}
+
+input[type=submit],input[type=reset]{
+    background-color:#1da8a1;
+    text-align:center;
+    border-radius:3px;
+    padding:10px 50px;
+    border-radius: 4px;
+}
+
+
+#left-nav p{
+    font-size: 21px;
+    font-family: 'Neucha';
+
+}
+#sign{
+  font-family: 'Allura';
+  font-size: 35px;
+}
+h1{
+    color: #111111;
+    text-align: center;
+    font-family: 'Poiret One';
+    font-size: 30px;
+    /* text-shadow: 1px 1px #1da8a1; */
+}
+
+
+.left{
+  float: right;
+  padding: 10px 10px;
+  border: 1px solid #111111;
+}
+.leftform{
+  clear: left;
+  float: left;
+  margin-left: 150px;
+
+}
+
+footer{
+  clear: both;
+  background-color: #1a1818;
+  height: 200px;
+}
+#logo1{
+    height: 150px;
+    vertical-align: middle;
+    margin-left: 550px;
+    border-radius: 50%;
+}
+#myform{
+  text-align: center;
+  box-align: center;
+}
+input[type=text],input[type=password],input[type=email],input[type=date] {
+  width: 50%;
+  padding: 12px;
+  border: 1px solid rgb(128, 116, 116);
+  border-radius: 4px;
+}

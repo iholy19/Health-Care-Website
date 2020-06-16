@@ -1,0 +1,30 @@
+
+.bgdiv{
+    overflow: hidden;
+    
+}
+#navibar{
+    overflow: hidden;
+    display: inline;
+    list-style: none;
+}
+87
+#navibar a {
+    float: right;
+    color: #000000;
+    font-size: 17px;
+    text-align: centre;
+    padding: 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+    background-color: #000000 !important;
+}
+#navibar a:hover,input[type=submit]:hover,input[type=reset]:hover{
+    background-color: #e4e250;
+}
+#logo{
+    height: 70px;
+    vertical-align: middle;
+    margin-left: 50px;
+    border-radius: 50%;
+}
