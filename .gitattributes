@@ -4,3 +4,4 @@ touch .gitattributes
 *.css linguist-vendored=false
 *.jsp linguist-detectable=true
 *.xml linguist-vendored=false
+*.xml linguist-detectable=true
