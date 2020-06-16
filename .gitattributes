@@ -2,7 +2,7 @@ touch .gitattributes
 
 *.java linguist-vendored=false
 *.css linguist-vendored=false
-*.jsp linguist-detectable=true
+*.jsp linguist-language=html
 *.xml linguist-vendored=false
 *.xml linguist-detectable=true
 *.html linguist-vendored=false
