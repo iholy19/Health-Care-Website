@@ -3,6 +3,6 @@ touch .gitattributes
 *.java linguist-vendored=false
 *.css linguist-vendored=false
 *.jsp linguist-detectable=true
-*.jsp linguist-vendored=false
+*.jsp linguist-vendored=true
 *.js linguist-vendored=false
 *.xml linguist-vendored=false
