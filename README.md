@@ -29,6 +29,13 @@ Database: MySQL
     > Password: root
 * Create new schema named 'mydb1' and create table 'bmi'
     > ![bmi table](https://github.com/iholy19/Health-Care-Website/blob/master/bmi.png)
+* Create table 'exercise'
+    > ![exercise table](https://github.com/iholy19/Health-Care-Website/blob/master/exercise.png)
+* Create table 'food'
+    > ![food table](https://github.com/iholy19/Health-Care-Website/blob/master/food.png)
+* Create table 'login'
+    > ![login table](https://github.com/iholy19/Health-Care-Website/blob/master/login.png)
+---
 * Download and save the folder in tomcat folder.
     >C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps
 * Run the 'Tomcat9w' application located in
