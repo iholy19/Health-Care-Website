@@ -30,7 +30,7 @@ Database: MySQL
 * Create new schema named 'mydb1' and create table 'bmi'
     > ![bmi table](https://github.com/iholy19/Health-Care-Website/blob/master/bmi.png)
 * Create table 'exercise'
-    > ![exercise table](https://github.com/iholy19/Health-Care-Website/blob/master/exercise.png)
+    > ![exercise table](https://github.com/iholy19/Health-Care-Website/blob/master/ex.png)
 * Create table 'food'
     > ![food table](https://github.com/iholy19/Health-Care-Website/blob/master/food.png)
 * Create table 'login'
