@@ -17,9 +17,7 @@ MySQL workbench
 Language: Html, CSS, Javascript, Java, Jsp
 Database: MySQL
 
-* activity_main.xml - Login Page
-* activity_register.xml - Registration Page
-* Others are for forms and db
+* index.jsp - Main Page
 
 ### How to use?
 
