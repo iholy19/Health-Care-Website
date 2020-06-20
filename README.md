@@ -1,7 +1,5 @@
 ## HEALTH CARE SYSTEM
 
----
-
 A health care website created using HTML, CSS, JAVA and JSP using Tomcat server. This website includes monitoring of user's exercise, food intake which computes the calories burnt and gained respectively. User can also calculate  BMI.
 ### Installation
 
